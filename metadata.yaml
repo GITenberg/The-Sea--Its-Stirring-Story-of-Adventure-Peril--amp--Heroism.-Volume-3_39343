@@ -1,0 +1,28 @@
+_repo: The-Sea--Its-Stirring-Story-of-Adventure-Peril--amp--Heroism.-Volume-3_39343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whymper, Frederick
+    gutenberg_agent_id: '39978'
+    url: http://www.gutenberg.org/2009/agents/39978
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GC'
+- !lcsh 'Voyages around the world'
+- !lcsh 'Ocean'
+- !lcsh 'Adventure and adventurers'
+- !lcsh 'Arctic regions'
+title: 'The Sea: Its Stirring Story of Adventure, Peril, & Heroism. Volume 3'
+url: http://www.gutenberg.org/ebooks/39343
